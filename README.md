@@ -2,10 +2,7 @@
 
 Welcome to my GitHub.
 
-There isn't any projects up at the moment, but here are some things I'm working on:
-
-  1. Multiplayer Chess using Java GUI components
-  2. The Iliad Pixel Game using C# Unity
+There isn't any projects up at the moment.
   
   For more information visit https://harleycombest.wordpress.com/ .
   
