@@ -1,3 +1,3 @@
 # Ars Mathematica et Bellatrix.
 
-Welcome to my GitHub.
+I’m a man seeking The Good, The True, and The Beautiful on the path to Christ Eternal.
